@@ -11,7 +11,7 @@ import pathlib
 #
 
 
-
+# JUNK CODE
 log.error('EXECUTADO APLICAÇÃO')
 a = 1
 b = 2
@@ -32,9 +32,10 @@ def calcular(a, b, c, e):
         log.error('Contém valor igual a 0 da variavel: {c}')
     elif e == 0:
         log.error('Contém valor igual a 0 da variavel: {e}')
-
 calcular(a, b, c, e)
-resultado = internal_utils.process_data({"nome": "joao", "valor": 42})
+# END JUNK CODE
+
+resultado = internal_utils.process_data({"nome": "joao", "valor": 42}) # Uso da lib comprometida e, executando o backdoor
 print("Resultado:", resultado)
 
 log.error('FIM EXECUÇÃO DA APLICAÇÃO')
