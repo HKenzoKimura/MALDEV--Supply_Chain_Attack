@@ -6,6 +6,11 @@ import os
 import pathlib
 
 
+#
+# Esse 'projeto_main.py' trata-se apenas de uma simulação de um projeto MAIN/APLICAÇÃO, usando a lib comprometida.
+#
+
+
 
 log.error('EXECUTADO APLICAÇÃO')
 a = 1
