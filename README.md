@@ -8,6 +8,9 @@
 >
 > ⚠️ *Todo payload exibe dados localmente (tkinter popup ou print) sem envio real. Credenciais Pastebin são placeholders. Sem C2 operacional.*
 
+
+## `Developed by: HKK`
+
 ---
 
 ## `$ cat ./objective.txt`
